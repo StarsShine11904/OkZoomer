@@ -52,8 +52,6 @@
 	"config.ok_zoomer.tweaks.unbind_conflicting_key.tooltip": "如果按下，「儲存工具列啟動器」按鍵綁定將在與縮放鍵發生衝突時解除綁定。",
 	"config.ok_zoomer.tweaks.reset_zoom_with_mouse": "使用滑鼠重設縮放",
 	"config.ok_zoomer.tweaks.reset_zoom_with_mouse.tooltip": "允許使用滑鼠中鍵重設縮放。",
-	"config.ok_zoomer.tweaks.forget_zoom_divisor": "忘記縮放除數",
-	"config.ok_zoomer.tweaks.forget_zoom_divisor.tooltip": "如果啟用，則在縮放完成後忘記當前的縮放除數。",
 	"config.ok_zoomer.tweaks.print_owo_on_start": "啟動時列印 owo",
 	"config.ok_zoomer.tweaks.print_owo_on_start.tooltip": "遊戲啟動時在主控台中列印一個隨機的 owo。",
 	"config.ok_zoomer.presets": "預設",
